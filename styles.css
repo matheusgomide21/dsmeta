@@ -6,6 +6,24 @@ a, a:hover, a:visited{
     text-decoration: none;
 }
 
+.dsmeta-logo-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.dev-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.dev{
+    padding-left: 3px;
+    color: #676FFF;
+    font-weight: 800;
+}
+
 *{
     font-family: "roboto", sans-serif;
     box-sizing: border-box;
