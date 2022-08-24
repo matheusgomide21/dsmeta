@@ -34,4 +34,15 @@ a, a:hover, a:visited{
 body, html{
     background-color: #000;
     color: #fff;
+    
+}
+
+.dsmeta-container{
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+#sales{
+    padding: 40px 20%;
 }

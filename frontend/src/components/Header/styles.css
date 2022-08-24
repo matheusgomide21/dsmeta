@@ -1,0 +1,50 @@
+.dsmeta-logo-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.dev-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.dev{
+    padding-left: 3px;
+    color: #676FFF;
+    font-weight: 800;
+}
+
+.dsmeta-logo-container{
+    /*posiciona um em frente do outro*/
+    display: flex;
+    /*posiciona o flex em colunas*/
+    flex-direction: column;
+    /*alinha todo conteúdo ao centro*/
+    align-items: center;
+}
+
+/*seleção do svg dentro da classe*/
+.dsmeta-logo-container img{
+    /*largura de 235 pixels*/
+    width: 235px;
+}
+
+header{
+    background: linear-gradient(180deg, #102347 0%, #181818 100%);
+    height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dsmeta-logo-container h1{
+    margin-top: 15px;
+    font-size: 24px;
+}
+
+.dsmeta-logo-container p{
+    font-size: 14px;
+    font-weight: 300;
+}
