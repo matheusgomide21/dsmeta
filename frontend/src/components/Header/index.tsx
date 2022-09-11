@@ -10,7 +10,7 @@ function Header() {
           <h1>DSMeta</h1>
           <div className="dev-container">
             <p>
-              Desenvolvido por{" "}
+              Desenvolvido por
               <a href="https://github.com/matheusgomide21">
                 <p className="dev">Matheus Gomide</p>
               </a>
